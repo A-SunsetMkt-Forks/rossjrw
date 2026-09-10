@@ -2010,7 +2010,7 @@
     "time": "2026-09-10T10:46:46.733Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f7fa2b6dd90295dc0611f06bf09a565c5b57f5e7/games/current/board.4698.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2019,6 +2019,23 @@
     },
     "fromPosition": 6,
     "toPosition": 9,
+    "roll": 3
+  },
+  {
+    "username": "rossjrw",
+    "issue": 4699,
+    "time": "2026-09-10T10:47:45.295Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 10,
+    "toPosition": 13,
     "roll": 3
   }
 ]
